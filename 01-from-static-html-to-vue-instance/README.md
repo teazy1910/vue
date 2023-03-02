@@ -1,6 +1,6 @@
-#Task: From static HTML to a Vue Instance
+# Task: From static HTML to a Vue Instance
 
-##In this task we use the basics of template interpolation. Sources will be found in the src folder of this directory.
+## In this task we use the basics of template interpolation. Sources will be found in the src folder of this directory.
 
 Fulfill the following tasks:
 
